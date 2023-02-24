@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Github",
+        "icon": "public/github.svg",
+        "link": "https://github.com/JulioJPinto"
+    },
+    {
+        "title": "Linkedin",
+        "icon": "public/linkedin.svg",
+        "link": "https://www.linkedin.com/in/j%C3%BAlio-pinto-243b96238/"
+    },
+    {
+        "title": "Email",
+        "icon": "public/mail.svg",
+        "link": "pinto.julioj03@gmail.com"
+    },
+    {
+        "title": "Instagram",
+        "icon": "public/instagram.svg",
+        "link": "https://www.instagram.com/juliojpinto_/"
+    }
+
+]
